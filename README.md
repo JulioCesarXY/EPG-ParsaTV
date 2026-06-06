@@ -29,8 +29,8 @@ https://raw.githubusercontent.com/JulioCesarXY/EPG-ParsaTV/main/lista_completa_p
 O formato de saída gerado pelo script segue o padrão universal do ecossistema IPTV:
 ```text
 #EXTM3U
-#EXTINF:-1 group-title="Nome Da Categoria" tvg-logo="[https://www.parsatv.com/logo.png](https://www.parsatv.com/logo.png)",Nome Do Canal
-[https://servidor-de-stream.live/hls/stream.m3u8](https://servidor-de-stream.live/hls/stream.m3u8)
+#EXTINF:-1 group-title="Nome Da Categoria" tvg-logo="https://www.parsatv.com/logo.png",Nome Do Canal
+https://servidor-de-stream.live/hls/stream.m3u8
 
 ```
 ## ⚙️ Como Funciona o Ambiente
