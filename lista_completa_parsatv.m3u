@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Geral",Manoto TV
-https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 group-title="Geral",Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Pars TV
