@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Geral",Iran National Revolution TV
-https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",DEJ TV
+https://rdejhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",MelliG TV
@@ -13,8 +15,8 @@ https://stream.novin.live/hls/playlist.m3u8
 https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Iran Aryaee
 https://oldkors-9u3p1.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
-#EXTINF:-1 group-title="Geral",DEJ TV
-https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Iran Wire TV
+https://irwhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Channel One
 https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
 #EXTINF:-1 group-title="Geral",Irane Farda
@@ -50,7 +52,7 @@ https://spf-cors-itn.cfcross.workers.dev/?url=https://livestream.5centscdn.com/t
 #EXTINF:-1 group-title="Geral",Pulse Media
 https://pulsehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Iran Independent TV
-https://ca-rt.onetv.app/hls/iranindtv/index.m3u8
+https://shiny-paper-8b46.iranindependent.workers.dev/index.m3u8
 #EXTINF:-1 group-title="Geral",MTC
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Avang TV
@@ -283,8 +285,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Geral",InfoWars
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 group-title="Geral",World Is One News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="Geral",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 group-title="Geral",Real Americas Voice
@@ -759,8 +759,6 @@ https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Geral",CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="Geral",Military History
-https://fl1.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 group-title="Geral",World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",BBC Earth
@@ -811,8 +809,6 @@ https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/playlist.m3u8
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 group-title="Geral",Westdeutscher Rundfunk
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 group-title="Geral",Bayerischer Rundfunk TV
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 #EXTINF:-1 group-title="Geral",Hessischer Rundfunk
@@ -1033,6 +1029,8 @@ https://cd198.anystream.uk:8082/hls/emnhdweb/index.m3u8
 https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Afghanistan International TV
 https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",BBC Pashto
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Geral",VOA Pashto
 https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Payame Afghan
