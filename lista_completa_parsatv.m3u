@@ -271,12 +271,16 @@ https://nowhls.wns.live/hls/stream.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 group-title="Geral",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="Geral",LiveNow From Fox
+https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 group-title="Geral",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 group-title="Geral",CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 group-title="Geral",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 group-title="Geral",ICI Television
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 group-title="Geral",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="Geral",CGTN English
@@ -329,6 +333,8 @@ https://tgn.bozztv.com/eshgtv-trn09/eshgh-radiosrood/index.m3u8
 https://s2.cdn3.iranseda.ir/liveedge/radio-javan/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Payame Doost Radio
 https://milkyway.tangledwires.io/stream.m3u8
+#EXTINF:-1 group-title="Geral",Bloomberg Radio
+https://stream.revma.ihrhls.com/zc6286/hls.m3u8
 #EXTINF:-1 group-title="Geral",KIIS FM Los Angeles
 https://stream.revma.ihrhls.com/zc185/hls.m3u8
 #EXTINF:-1 group-title="Geral",Kral POP Radio
@@ -1111,6 +1117,8 @@ https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Geral",JIN TV
 https://live.jintv.org:443/medialive/jintv.m3u8
+#EXTINF:-1 group-title="Geral",Sada TV
+https://oldkors-9u3p1.cfcross.workers.dev/?url=http://sada-hd.ddns.net/live/sadatv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Assyrian TV
@@ -1281,6 +1289,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Hidabroot TV
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 group-title="Geral",The Western Wall
+https://video2archives.earthcam.com/earthcamtv-vod/_definst_/mp4:archives/7949/backup.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Angel TV Hebrew
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Shelanu TV
