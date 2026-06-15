@@ -30,8 +30,8 @@ jobs:
 
     - name: Commitar e dar Push na lista atualizada
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
         # CORREÇÃO AQUI: Mudado para o nome real gerado pelo script
         git add lista_completa_parsatv.m3u
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Lista de canais atualizada" && git push)
