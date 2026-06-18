@@ -57,8 +57,6 @@ https://spf-cors-itn.cfcross.workers.dev/?url=https://livestream.5centscdn.com/t
 https://pulsehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Iran Independent TV
 https://shiny-paper-8b46.iranindependent.workers.dev/index.m3u8
-#EXTINF:-1 group-title="Geral",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Radio Javan TV
@@ -85,14 +83,10 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",4U Family
 https://familyhls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",MBC Persia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 group-title="Geral",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Khatereh TV
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
-#EXTINF:-1 group-title="Geral",T2 Movies
-https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 group-title="Geral",Ravi TV
 https://hls.ravitv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Datis TV
@@ -175,8 +169,6 @@ https://scihls.persiana.live/hls/stream.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Persiana Medical
@@ -193,8 +185,6 @@ https://live-aburayhan1111.telewebion.ir/ek/sport3/live/1080p/index.m3u8
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Erfan Halgheh
-https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Derakhte Zendegi
 https://derakhtzhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Iran Jewish TV
@@ -297,18 +287,12 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Yahoo Finance
-https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Mordovia 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 group-title="Geral",KXXV Texas News
 https://content.uplynk.com/channel/d98542382d0b49b2b573f1653590e346.m3u8
-#EXTINF:-1 group-title="Geral",ABC 10 San Diego
-https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 group-title="Geral",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="Geral",WeatherSpy
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",AccuWeather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Sky News Weather
@@ -383,8 +367,6 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist.m3u
 https://oldkors-9u3p1.cfcross.workers.dev/?url=http://euroindiemusic.icdndhcp.com:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Afrobeat TV
 https://stream.ecable.tv/afbtv/index.m3u8
-#EXTINF:-1 group-title="Geral",Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 group-title="Geral",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Geral",Tierra Mia TV
@@ -407,26 +389,10 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 https://bradmax.com/client/embed-player/27e405218208242c7d92cd840df0884536d9db2d_4362?mediaUrl=https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
 #EXTINF:-1 group-title="Geral",Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 group-title="Geral",3ABN Praise Him Music
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",On Air TV
-https://oldkors-9u3p1.cfcross.workers.dev/?url=http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kiss Kiss Italia TV
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Vevo TV
-https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
 #EXTINF:-1 group-title="Geral",Vevo Pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Vevo Schlager Pop
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Vevo Hip Hop
-https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
-#EXTINF:-1 group-title="Geral",Vevo Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 group-title="Geral",Vevo R and B
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
-#EXTINF:-1 group-title="Geral",Biz Music
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/playlist.m3u8
 #EXTINF:-1 group-title="Geral",1Muz
 https://oldkors-9u3p1.cfcross.workers.dev/?url=http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Geral",30A Music
@@ -435,58 +401,22 @@ https://30a-tv.com/music.m3u8
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 group-title="Geral",Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Fashion TV
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Geral",World Fashion TV
-https://cdn.wfc.tv/cdn/stream-eng.m3u8
 #EXTINF:-1 group-title="Geral",World Fashion Russia
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 group-title="Geral",FTV Czech Slovak
-https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Code Fashion
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 group-title="Geral",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Kaloopy TV
 https://viewtvnetwork.viewtv.cloud/media/7f3413aa-e6e7-4527-9917-2de863a66988/master.m3u8
-#EXTINF:-1 group-title="Geral",Super Yacht TV
-https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Fashion Finds
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 group-title="Geral",QVC Beauty
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
-#EXTINF:-1 group-title="Geral",QVC Beauty 2
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
-#EXTINF:-1 group-title="Geral",QVC Beauty 3
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
 #EXTINF:-1 group-title="Geral",QVC Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/master.m3u8
-#EXTINF:-1 group-title="Geral",GEMS TV
-https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Gem Shopping Network
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Jewellery Maker
-https://livecdn.use1-0004.jwplive.com/live/sites/2hbjTQ4s/media/oe7UD7Ag/live.isml/live.m3u8
-#EXTINF:-1 group-title="Geral",Biz Cinema
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Biz TV
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/playlist.m3u8
-#EXTINF:-1 group-title="Geral",NTV Afrique
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Popstar! TV
-https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Carac 1
 https://edge17.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Carac 2
-https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Carac 3
 https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Carac 4
-https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",TV100 Greece
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 group-title="Geral",Groovy TV
@@ -495,40 +425,22 @@ https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Geral",AfroLand TV
 https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 group-title="Geral",Revry TV
-https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Nolly Africa
-https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
-#EXTINF:-1 group-title="Geral",CineLife
-https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/playlist.m3u8
-#EXTINF:-1 group-title="Geral",MyTime Movie
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",30A Classic Movies
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 group-title="Geral",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/index.m3u8
 #EXTINF:-1 group-title="Geral",CrimeFlix
 https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
 #EXTINF:-1 group-title="Geral",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 group-title="Geral",YTA TV
-https://yta.unitedteleports.tv/hls/YTA-SCTE35.m3u8
 #EXTINF:-1 group-title="Geral",Electric Now
 https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",BBC Drama Italy
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",BBC Doctor Who Classic
-https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Geral",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Geral",Fubo Sports
-https://playout.fubo.tv/plex/master.m3u8
 #EXTINF:-1 group-title="Geral",Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Geral",ACC Digital Network
@@ -541,76 +453,30 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Geral",FIFA TV
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Geral",NBA TV
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",NHL TV
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-#EXTINF:-1 group-title="Geral",MLB TV
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 group-title="Geral",NFL TV
-https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
-#EXTINF:-1 group-title="Geral",Motorvision TV
-https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",AutoMoto TV
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Geral",Motorsports 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Geral",Sports Grid
 https://dw12mvm4tomw7.cloudfront.net/playlist/amg00315-sportsgridfast-sportsgrid-sportsgridus/playlist.m3u8
-#EXTINF:-1 group-title="Geral",ATG TV
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/index.m3u8
-#EXTINF:-1 group-title="Geral",FITE 247
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 group-title="Geral",Racing Australia
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8
-#EXTINF:-1 group-title="Geral",Super Tennis
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",CBS Sports
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="Geral",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 group-title="Geral",Strongman
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",BBC Top Gear
-https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Game Plus
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 group-title="Geral",beIN Sports Xtra
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Tennis Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-#EXTINF:-1 group-title="Geral",PokerGO
-https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kozoom TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 group-title="Geral",Sportitalia
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Geral",Sochi TV
-https://serv30.vintera.tv:443/sochilive_site/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Women Sports Network
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="Geral",PAC 12 Insider
-https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Boxing TV
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Turkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="Geral",World Of Freesports
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="Geral",Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="Geral",Fuel TV
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 group-title="Geral",Unbeaten
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",The Shopping Channel
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Geral",United Nations TV
@@ -621,44 +487,14 @@ https://stream.kirkism.com/hls/playlist.m3u8
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 group-title="Geral",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",District of Columbia Network
-https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-title="Geral",Seattle Channel
-https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Key TV Florida
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Vox Africa TV
-https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Amazing Discoveries
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",AFV TV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="Geral",BFM Grand Lille
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8
-#EXTINF:-1 group-title="Geral",BX1 TV
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Horse Country TV
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 group-title="Geral",CGTN French
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Geral",CGTN Russian
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Geral",1TV Georgia
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 group-title="Geral",Milano Pavia TV
 https://59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Cornerstone TV
-https://2-fss-1.themediacdn.com/pl_122/amlst:206280-3059514/playlist.m3u8
-#EXTINF:-1 group-title="Geral",30A TV
-https://30a-tv.com/feeds/masters/30atv.m3u8
-#EXTINF:-1 group-title="Geral",30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-title="Geral",Electrika TV
-https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Sophia TV
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",3ABN TV
@@ -667,18 +503,10 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",3ABN Dare to Dream
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/HD720/HD720.m3u8
-#EXTINF:-1 group-title="Geral",3ABN Francais
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",3ABN Russia
 https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",TCT TV
-https://livecdn.use1-0004.jwplive.com/live/sites/LXqYX6Kr/media/frRD2nUK/live.isml/playlist.m3u8
 #EXTINF:-1 group-title="Geral",CBC TV 8
 https://1740288887.rsc.cdn77.org/1740288887/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Altamura TV
@@ -695,512 +523,174 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/disneyc
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 group-title="Geral",Rik TV
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Travelxp
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Go2Travel TV
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Geral",GoTraveler
-https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="Geral",HD Travel TV
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 group-title="Geral",Law and Crime
 https://a-cdn.klowdtv.com/live3/law_720p/chunks.m3u8
-#EXTINF:-1 group-title="Geral",True Crime Network
-https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",True Crime Now
-https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Real Crime
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Crime and Justice
-https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Universal Crime
-https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Geral",National Geographic Wild
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Geral",True History
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Geral",CGTN Documentary
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="Geral",Military History
 https://fl1.moveonjoy.com/Military_History/index.m3u8
-#EXTINF:-1 group-title="Geral",World War TV
-https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",BBC Earth
-https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Royal World TV
-https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Russia Today Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="Geral",ZDF
-https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",VOX
-https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Sixx
-https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",RTL
-https://s6.hopslan.com/rtla111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",RTL Zwei
 https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",RTL Nitro
 https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Super RTL
-https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",Baden TV
 https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",DMAX
 https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",ProSieben
-https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",ProSieben MAXX
 https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",ntv
-https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",Welt
 https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",Disney Channel Germany
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 group-title="Geral",Sat1
-https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",Sat1 Gold
 https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",NDR Fernsehen
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
-#EXTINF:-1 group-title="Geral",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="Geral",Alex Berlin
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 group-title="Geral",Westdeutscher Rundfunk
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 group-title="Geral",Bayerischer Rundfunk TV
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-#EXTINF:-1 group-title="Geral",Hessischer Rundfunk
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 group-title="Geral",TV Oberfranken
 https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",TV Berlin
 https://wowza.telvi.de/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Augsburg TV
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Geral",TV Mainfranken
-https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Franken Fernsehen
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Allgau TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Sylt1
-https://h056.video-stream-hosting.de/easycast9-live/mp4:livestream999/playlist.m3u8
-#EXTINF:-1 group-title="Geral",TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Kabel Eins
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Kabel 1 Doku
-https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",ARD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="Geral",Dorf TV
 https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8
-#EXTINF:-1 group-title="Geral",Okto TV
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Geral",RTL Luxembourg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Freies Fernsehen Salzburg
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 group-title="Geral",Laendle TV
-https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 group-title="Geral",Tele 5
-https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Arte
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Geral",TLC Germany
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Saarlandischer Rundfunk
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
-#EXTINF:-1 group-title="Geral",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",ARD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
-#EXTINF:-1 group-title="Geral",Omrop Fryslan
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/index.m3u8
-#EXTINF:-1 group-title="Geral",tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 group-title="Geral",Russia Today Germany
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Parlamentsfernsehen
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",ORF 1
-https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 group-title="Geral",Sudthuringer Regionalfernsehen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Comedy Central
 https://s6.hopslan.com/vivaX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",ServusTV
-https://s6.hopslan.com/servus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Geral",BBC Arabic
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 group-title="Geral",Sky News Arabia
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 group-title="Geral",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Arabiya Business
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Arabiya English
-https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Geral",Al Araby TV
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Araby TV 2
-https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Arabiya FM
-https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="Geral",Aljazeera Mubasher
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="Geral",Aljazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-#EXTINF:-1 group-title="Geral",CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Geral",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="Geral",TRT Arabic
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",Al Mayadeen
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Alrayyan TV
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Geral",Al Hadath
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Yaum TV
-https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-#EXTINF:-1 group-title="Geral",Al Sharqiya TV
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Sharqiya News
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Zaman TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 group-title="Geral",CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="Geral",Sat7 Arabic
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Sat7 Kids
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",El Sharq TV
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Hala TV
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_source/chunks_dvr.m3u8
-#EXTINF:-1 group-title="Geral",National Geographic Abu Dhabi
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Geral",Russia Today Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Arabica TV
-https://oldkors-9u3p1.cfcross.workers.dev/?url=http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Alhorreya TV
-https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Al Emarat TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="Geral",Abu Dhabi Sports 1
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-#EXTINF:-1 group-title="Geral",Abu Dhabi Sports 2
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Geral",YAS Sports
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1 group-title="Geral",Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_source/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Aghani Aghani TV
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Koogi TV
-https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Qatar TV 1
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 group-title="Geral",Qatar TV 2
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 group-title="Geral",Abu Dhabi TV HD
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Geral",Al Sharqiya Kalba
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Roya TV
-https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 group-title="Geral",Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Roya Drama
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Roya Kids
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Roya Kids Originals
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Roya Kitchen
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Majid Children
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Geral",Baynounah TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-#EXTINF:-1 group-title="Geral",Oman Cultural
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Oman TV
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Oman Mubasher
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Oman Sports
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV 1
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV 2
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV News
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV Arabe
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",KTV Sport 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV Ethraa
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Al Iraqia
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Dijlah TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 group-title="Geral",Al Iraqia News
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Al Khaleej TV
-https://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",ABN Sat TV
-https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-#EXTINF:-1 group-title="Geral",Miracle Channel Arabic
-https://miracle.stream.boxigy.com/mc-720/stream_0.m3u8
-#EXTINF:-1 group-title="Geral",Eman TV
-https://cd198.anystream.uk:8082/hls/emnhdweb/index.m3u8
-#EXTINF:-1 group-title="Geral",Islam Channel
-https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Afghanistan International TV
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",BBC Pashto
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Geral",VOA Pashto
-https://voa-ingest.akamaized.net/hls/live/2033781/tvmc02/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Payame Afghan
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Geral",ABN Afghanistan
-https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1 group-title="Geral",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
-#EXTINF:-1 group-title="Geral",Donyai New
-https://dunyanhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Solh Sports
-https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kayhan Afghan
-https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Afghan Theatre
 https://tgn.bozztv.com/eshgtv-36bay3/gf-afghantheather/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Asia Music Channel
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Deeyar TV
-https://afghantv.app/hls2/deeyar/index.m3u8
 #EXTINF:-1 group-title="Geral",Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
-#EXTINF:-1 group-title="Geral",Iman TV
-https://afghantv.app/hls4/imantv/index.m3u8
-#EXTINF:-1 group-title="Geral",Nour TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 group-title="Geral",Watan e Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:-1 group-title="Geral",RTA TV
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8
-#EXTINF:-1 group-title="Geral",RTA News
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8
 #EXTINF:-1 group-title="Geral",RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 group-title="Geral",Tolo TV
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8
 #EXTINF:-1 group-title="Geral",Tolo News
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
-#EXTINF:-1 group-title="Geral",Lemar TV
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
-#EXTINF:-1 group-title="Geral",Ariana Afghan
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
-#EXTINF:-1 group-title="Geral",Ariana News
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-atnnews/index.m3u8
-#EXTINF:-1 group-title="Geral",Arezo TV
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-arezotv/index.m3u8
-#EXTINF:-1 group-title="Geral",Maawj TV
-https://maawjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Shamshad Afghan
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Zhwandoon TV
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-zhwandoon/index.m3u8
-#EXTINF:-1 group-title="Geral",1TV Afghanistan
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-1tvafg/index.m3u8
-#EXTINF:-1 group-title="Geral",RTA Education
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8
-#EXTINF:-1 group-title="Geral",Tamadon Afghan
-https://hls.tamadon.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Eslah TV
-https://eslahtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Noor TV
 https://sscsott.com/srt/noortvuk/index.m3u8
-#EXTINF:-1 group-title="Geral",Chekad TV
-https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Music Time
-https://2nbyjj2by53k-hls-live.5centscdn.com/783_push_403/9dd8b07c957bd058ddcf9fd698c3406b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Tojikiston TV
-https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1 group-title="Geral",Dushanbe TV
-https://stream.dushanbetv.tj/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Kurd Channel
-https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Eurokurd
-https://oldkors-9u3p1.cfcross.workers.dev/?url=http://baskhd.ddns.net/live/Eurokurd/playlist.m3u8
 #EXTINF:-1 group-title="Geral",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",Sterk TV
-https://zindi.sterk.tv/live/sterk.m3u8
-#EXTINF:-1 group-title="Geral",Rudaw TV
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 group-title="Geral",Kurdsat TV
-https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 group-title="Geral",Kurdsat News
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 group-title="Geral",4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Kurdistan 24
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 group-title="Geral",Ronahi TV
-https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 group-title="Geral",Amozhgary TV
-https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 group-title="Geral",Afarin Kids
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Baxchai Afarin
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Afarin Radio
 https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",NRT TV
-https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Zagros TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aryen TV
 https://stream.aryen.tv/live/tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Assyrian Global Network
-https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Nohadra TV
 https://nohadraserver.com:3785/live/nohadratvlive.m3u8
-#EXTINF:-1 group-title="Geral",Payam TV
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Zarok TV
-https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Geral",JIN TV
-https://live.jintv.org:443/medialive/jintv.m3u8
-#EXTINF:-1 group-title="Geral",Sada TV
-https://oldkors-9u3p1.cfcross.workers.dev/?url=http://sada-hd.ddns.net/live/sadatv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Waar TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Assyrian TV
-https://ca1.buximedia.com/coa/assyriantv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",SOZ Movies
-https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1 group-title="Geral",SOZ Quran 1
 https://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 #EXTINF:-1 group-title="Geral",SOZ Quran 2
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
-#EXTINF:-1 group-title="Geral",Star TV
-https://dogus.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 group-title="Geral",NOW Turkey
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Geral",TV 360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="Geral",Teve 2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kanal Firat
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Dream Turk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Number1 HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Number1 Ask
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Number1 Turk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",Number1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Number1 Damar
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Euro Star
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8
 #EXTINF:-1 group-title="Geral",Ulke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",Kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/chunks.m3u8
-#EXTINF:-1 group-title="Geral",ATV Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Geral",ATV Avrupa
-https://streamer2.nexgen.bz/ATV/index.m3u8
-#EXTINF:-1 group-title="Geral",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Geral",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Geral",TRT EBA Lise
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Geral",TRT EBA Ilkokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",TRT Diyanet
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",TRT Muzik
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Geral",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Geral",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="Geral",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="Geral",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="Geral",Bloomberg HT
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="Geral",Fenerbahce TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",BRTV Turkey
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Power Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Kanal Z
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Beyaz TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 group-title="Geral",TVnet
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 group-title="Geral",TGRT Haber
@@ -1215,52 +705,30 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="Geral",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="Geral",Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Power Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Power Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Cine5
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 group-title="Geral",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 group-title="Geral",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kanal B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 group-title="Geral",Kanal 7
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Kanal V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Ciftci TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",AzStar TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 group-title="Geral",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 group-title="Geral",ITB TV
-https://live.itbtvlive.com/itbtvlive/index.m3u8
-#EXTINF:-1 group-title="Geral",Al Zahra TV
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/chunks.m3u8
 #EXTINF:-1 group-title="Geral",1TV Armenia
 https://amtvusdvr.tulix.tv/am2abr/index.m3u8
 #EXTINF:-1 group-title="Geral",1TV News
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 #EXTINF:-1 group-title="Geral",1TV America
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 group-title="Geral",AMGA TV
-https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Song TV Armenia
 https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
 #EXTINF:-1 group-title="Geral",USArmenia TV
@@ -1281,8 +749,6 @@ https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Kan Kids
 https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 group-title="Geral",Knesset Channel
@@ -1295,22 +761,14 @@ https://video2archives.earthcam.com/earthcamtv-vod/_definst_/mp4:archives/7949/b
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Shelanu TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Kabbalah TV
-https://edge2.uk.kab.tv/live/eng-medium/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Kabbalah Hebrew
 https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="Geral",ETB Sat
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 group-title="Geral",Hola Play TV
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 group-title="Geral",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 group-title="Geral",Imagen Television
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 group-title="Geral",CGTN Spanish
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="Geral",DW Spanish
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Geral",France 24 Spanish
@@ -1319,8 +777,6 @@ https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",TV Azteca
-https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 group-title="Geral",Azteca Internacional
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 group-title="Geral",ADN 40
@@ -1329,14 +785,8 @@ https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 group-title="Geral",Canal Catorce
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",Filmex
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Filmex Clasico
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Estrella Games
 https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",beIN Sports Xtra Espanol
@@ -1347,12 +797,8 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Geral",Telemundo Accion
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Geral",Alcarria TV
-https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Geral",FreeTV Accion
-https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
 #EXTINF:-1 group-title="Geral",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Aprende mx
@@ -1367,26 +813,16 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Tele Arena
 https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Newsmax Spanish
-https://n1ottes.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 group-title="Geral",Russia Today Spanish
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Antofagasta TV
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream4/chunks.m3u8
 #EXTINF:-1 group-title="Geral",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="Geral",Channel 24 Ukraine
 https://streamvideol1.luxnet.ua/news24/livenews.m3u8
-#EXTINF:-1 group-title="Geral",First City Odessa
-https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:-1 group-title="Geral",BritAsia TV
 https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 group-title="Geral",The Ismaili TV
-https://214680.global.ssl.fastly.net/65dcad91056e0edda4cbce91/live_4a816ff0d7c511eeab33e1cc20aaf5d7/index.m3u8
 #EXTINF:-1 group-title="Geral",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 group-title="Geral",Desi Tashan TV
@@ -1401,8 +837,6 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 group-title="Geral",Balle Balle TV
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 group-title="Geral",Shree Shyam TV
-https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 #EXTINF:-1 group-title="Geral",TAG TV
 https://cdn.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Shabake 1
@@ -1423,8 +857,6 @@ https://live-aburayhan1111.telewebion.ir/ek/mostanad/live/720p/index.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/omid/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Pooya
 https://live-aburayhan1111.telewebion.ir/ek/pooya/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Roya
-https://live-aburayhan1111.telewebion.ir/ek/iribu/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Nasim
 https://live-aburayhan1111.telewebion.ir/ek/nasim/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Amouzesh
@@ -1437,40 +869,26 @@ https://live-aburayhan1111.telewebion.ir/ek/kawthar/live/720p/index.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/hdtest/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Salamat
 https://live-aburayhan1111.telewebion.ir/ek/salamat/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Press TV
-https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 group-title="Geral",Press TV French
 https://live4.presstv.ir/live/mp4:presstvfr/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Hispan TV
-https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="Geral",iFilm Farsi
 https://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 group-title="Geral",iFilm English
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 group-title="Geral",iFilm Arabic
 https://live.presstv.ir/hls/ifilmar.m3u8
-#EXTINF:-1 group-title="Geral",iFilm Dari
-https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 group-title="Geral",Alalam
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 group-title="Geral",Alalam Syria
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 group-title="Geral",Ofogh
 https://live-aburayhan1111.telewebion.ir/ek/ofogh/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Quran
-https://live-aburayhan1111.telewebion.ir/ek/quran/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",IRNA TV
-https://tv.irna.ir/live/stream/index.m3u8
 #EXTINF:-1 group-title="Geral",Labbayk
 https://live-aburayhan1111.telewebion.ir/ek/labbayk/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Velayat TV
-https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 group-title="Geral",Tahour TV
 https://iptv.tahourtv.com/tahourtv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Abalfadhl TV
 https://northtelecom.b-cdn.net/ABALFADHL.m3u8
-#EXTINF:-1 group-title="Geral",Hadi TV
-https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8
 #EXTINF:-1 group-title="Geral",Marjaeyat TV
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Rasoulallah TV
@@ -1485,8 +903,6 @@ https://live-aburayhan1111.telewebion.ir/ek/alborz/live/720p/index.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/sabalan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Khorasan Jonoobi
 https://live-aburayhan1111.telewebion.ir/ek/khavaran/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Khorasan Shomali
-https://live-aburayhan1111.telewebion.ir/ek/atrak/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Booshehr
 https://live-aburayhan1111.telewebion.ir/ek/bushehr/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Chahar Mahal
@@ -1495,16 +911,10 @@ https://live-aburayhan1111.telewebion.ir/ek/jahanbin/live/720p/index.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/esfahan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Fars
 https://live-aburayhan1111.telewebion.ir/ek/fars/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Gilan
-https://live-aburayhan1111.telewebion.ir/ek/baran/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Golestan
 https://live-aburayhan1111.telewebion.ir/ek/sabz/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Hamedan
-https://live-aburayhan1111.telewebion.ir/ek/sina/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Hormozgan
 https://live-aburayhan1111.telewebion.ir/ek/khalijefars/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Ilam
-https://live-aburayhan1111.telewebion.ir/ek/ilam/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kerman
 https://live-aburayhan1111.telewebion.ir/ek/kerman/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kermanshah
@@ -1515,16 +925,10 @@ https://live-aburayhan1111.telewebion.ir/ek/karoon/live/720p/index.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/khoozestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kish
 https://live-aburayhan1111.telewebion.ir/ek/kish/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Kordestan
-https://live-aburayhan1111.telewebion.ir/ek/kordestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Lorestan
 https://live-aburayhan1111.telewebion.ir/ek/aflak/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Mahabad
-https://live-aburayhan1111.telewebion.ir/ek/mahabad/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Markazi
 https://live-aburayhan1111.telewebion.ir/ek/aftab/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Khorasan Razavi
-https://live-aburayhan1111.telewebion.ir/ek/khorasanrazavi/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Mazandaran
 https://live-aburayhan1111.telewebion.ir/ek/tabarestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Qazvin
