@@ -14,7 +14,7 @@ https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Nahade Azadi
 https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Iran Aryaee
-https://iranaryai.kirkism.shop/iranearyaeesd/index.m3u8
+https://iranaryai.thecyrusaccords.com/iranearyaeesd/index.m3u8
 #EXTINF:-1 group-title="Geral",Iran Wire TV
 https://irwhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Channel One
@@ -55,14 +55,14 @@ https://pulsehls.wns.live/hls/stream.m3u8
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 #EXTINF:-1 group-title="Geral",ITN TV
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",GEM Series
-https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8
 #EXTINF:-1 group-title="Geral",YourTime TV
 https://live.yourtime.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",MTC
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Avang TV
 https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",PMC
 https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 group-title="Geral",Navahang TV
@@ -93,6 +93,8 @@ https://hls.4utv.live/hls/stream.m3u8
 https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 group-title="Geral",Oxir TV
+https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Khatereh TV
@@ -101,18 +103,12 @@ https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 group-title="Geral",Arko TV
 https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Oxir TV
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",ICC TV
-https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Ayeneh TV
-https://spf-cors-ayeneh.cfcrossing.workers.dev/?url=https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Geral",Classic TV
-https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Geral",Omid e Iran
-https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Tasvire Iran
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="Geral",ICC TV
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Omid e Iran
+https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",SL 2
@@ -137,6 +133,60 @@ https://hls.tmtv.live/hls/stream.m3u8
 https://nethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",GEM TV
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Series
+https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8
+#EXTINF:-1 group-title="Geral",Mifa Music
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Life
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Life2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Film
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Film2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Rubix
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Rubix2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM River
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20River2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Junior
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Junior2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Kids
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Kids2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Classic
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLASSIC2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Drama
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Comedy
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Comedy2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Entertainment
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Entertainment2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Onyx
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Bollywood
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Bollywood2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Fit
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20FIT2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Nature
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Gem-Nature/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Food
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20FOOD2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Pixel
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Pixel2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Sport
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/GEM%20Sport/playlist.m3u8
+#EXTINF:-1 group-title="Geral",Mifa Music Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Mifa%20Plus/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM TV Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV%20Plus2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Series Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV%20Plus2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Drama Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama%20Plus2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM River Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20River%20Plus2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Rubix Plus
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Rubix%20Plus2/playlist.m3u8
+#EXTINF:-1 group-title="Geral",GEM Documentary
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Documentary2/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Didaniha TV
 https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Pro Sport International
@@ -183,12 +233,18 @@ https://fighthls.persiana.live/hls/stream.m3u8
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Persiana Sports
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 group-title="Geral",Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Geral",Ayeneh TV
+https://spf-cors-ayeneh.cfcrossing.workers.dev/?url=https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Telewebion Sport 1
-https://live-aburayhan1104.telewebion.ir/ek/sport1/live/1080p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/sport1/live/1080p/index.m3u8
 #EXTINF:-1 group-title="Geral",Telewebion Sport 2
-https://live-aburayhan1109.telewebion.ir/ek/sport2/live/1080p/index.m3u8
+https://live-aburayhan1101.telewebion.ir/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 group-title="Geral",Telewebion Sport 3
-https://live-aburayhan1102.telewebion.ir/ek/sport3/live/1080p/index.m3u8
+https://live-aburayhan1112.telewebion.ir/ek/sport3/live/1080p/index.m3u8
 #EXTINF:-1 group-title="Geral",Meta Film
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Geral",Arax TV
@@ -781,8 +837,6 @@ https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 #EXTINF:-1 group-title="Geral",Sat1
 https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",Sat1 Gold
-https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",NDR Fernsehen
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 #EXTINF:-1 group-title="Geral",Das Erste
@@ -819,8 +873,6 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Geral",Kabel 1 Doku
 https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Geral",ARD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="Geral",Dorf TV
 https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8
 #EXTINF:-1 group-title="Geral",Okto TV
@@ -979,8 +1031,6 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Geral",KTV 2
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",KTV News
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Geral",KTV Arabe
@@ -1377,6 +1427,8 @@ https://stream.aprende.gob.mx/live/hls/index.m3u8
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 group-title="Geral",Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="Geral",BBC Drama Spanish
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Tele Arena
@@ -1423,36 +1475,34 @@ https://cloudcdn.in/live/shreeshyamtv/index.m3u8
 https://cdn.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 #EXTINF:-1 group-title="Geral",Shabake 1
 https://live-aburayhan1105.telewebion.ir/ek/tv1/live/720p/index.m3u8
-#EXTINF:-1 group-title="Geral",Shabake 2
-https://live-aburayhan1112.telewebion.ir/ek/tv2/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Shabake 4
-https://live-aburayhan1111.telewebion.ir/ek/tv4/live/720p/index.m3u8
+https://live-aburayhan1112.telewebion.ir/ek/tv4/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Shabake 5
 https://live-aburayhan1107.telewebion.ir/ek/tehran/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Shabake Khabar
-https://live-aburayhan1103.telewebion.ir/ek/irinn/live/720p/index.m3u8
+https://live-aburayhan1102.telewebion.ir/ek/irinn/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Shabake Khabar 2
 https://live-aburayhan1111.telewebion.ir/ek/irinn2/live/576p/index.m3u8
 #EXTINF:-1 group-title="Geral",Mostanad
-https://live-aburayhan1106.telewebion.ir/ek/mostanad/live/720p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/mostanad/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Omid
-https://live-aburayhan1110.telewebion.ir/ek/omid/live/720p/index.m3u8
+https://live-aburayhan1113.telewebion.ir/ek/omid/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Pooya
-https://live-aburayhan1106.telewebion.ir/ek/pooya/live/720p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/pooya/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Roya
-https://live-aburayhan1104.telewebion.ir/ek/iribu/live/720p/index.m3u8
+https://live-aburayhan1112.telewebion.ir/ek/iribu/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Nasim
-https://live-aburayhan1103.telewebion.ir/ek/nasim/live/720p/index.m3u8
+https://live-aburayhan1104.telewebion.ir/ek/nasim/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Amouzesh
-https://live-aburayhan1105.telewebion.ir/ek/amouzesh/live/720p/index.m3u8
+https://live-aburayhan1101.telewebion.ir/ek/amouzesh/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Namayesh
-https://live-aburayhan1102.telewebion.ir/ek/namayesh/live/720p/index.m3u8
+https://live-aburayhan1108.telewebion.ir/ek/namayesh/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Alkosar
-https://live-aburayhan1109.telewebion.ir/ek/kawthar/live/720p/index.m3u8
+https://live-aburayhan1110.telewebion.ir/ek/kawthar/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Tamasha
-https://live-aburayhan1101.telewebion.ir/ek/hdtest/live/720p/index.m3u8
+https://live-aburayhan1113.telewebion.ir/ek/hdtest/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Salamat
-https://live-aburayhan1113.telewebion.ir/ek/salamat/live/720p/index.m3u8
+https://live-aburayhan1101.telewebion.ir/ek/salamat/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 group-title="Geral",Press TV French
@@ -1472,13 +1522,13 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 group-title="Geral",Alalam Syria
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 group-title="Geral",Ofogh
-https://live-aburayhan1101.telewebion.ir/ek/ofogh/live/720p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/ofogh/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Quran
-https://live-aburayhan1109.telewebion.ir/ek/quran/live/720p/index.m3u8
+https://live-aburayhan1104.telewebion.ir/ek/quran/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",IRNA TV
 https://tv.irna.ir/live/stream/index.m3u8
 #EXTINF:-1 group-title="Geral",Labbayk
-https://live-aburayhan1102.telewebion.ir/ek/labbayk/live/720p/index.m3u8
+https://live-aburayhan1104.telewebion.ir/ek/labbayk/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Velayat TV
 https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 group-title="Geral",Tahour TV
@@ -1490,72 +1540,76 @@ https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8
 #EXTINF:-1 group-title="Geral",Marjaeyat TV
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Imam Reza
-https://live-aburayhan1105.telewebion.ir/ek/razavi/live/720p/index.m3u8
+https://live-aburayhan1106.telewebion.ir/ek/razavi/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Rasoulallah TV
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 group-title="Geral",Shabake 1 Plus
-https://live-aburayhan1105.telewebion.ir/ek/tv1plus/live/720p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/tv1plus/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Abadan
-https://live-aburayhan1109.telewebion.ir/ek/abadan/live/720p/index.m3u8
+https://live-aburayhan1107.telewebion.ir/ek/abadan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Alborz
-https://live-aburayhan1103.telewebion.ir/ek/alborz/live/720p/index.m3u8
+https://live-aburayhan1108.telewebion.ir/ek/alborz/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Ardabil
-https://live-aburayhan1109.telewebion.ir/ek/sabalan/live/720p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/sabalan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Khorasan Jonoobi
-https://live-aburayhan1112.telewebion.ir/ek/khavaran/live/720p/index.m3u8
+https://live-aburayhan1101.telewebion.ir/ek/khavaran/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Khorasan Shomali
-https://live-aburayhan1108.telewebion.ir/ek/atrak/live/720p/index.m3u8
+https://live-aburayhan1112.telewebion.ir/ek/atrak/live/720p/index.m3u8
+#EXTINF:-1 group-title="Geral",Booshehr
+https://live-aburayhan1106.telewebion.ir/ek/bushehr/live/720p/index.m3u8
+#EXTINF:-1 group-title="Geral",Chahar Mahal
+https://live-aburayhan1111.telewebion.ir/ek/jahanbin/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Esfahan
-https://live-aburayhan1109.telewebion.ir/ek/esfahan/live/720p/index.m3u8
+https://live-aburayhan1106.telewebion.ir/ek/esfahan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Fars
-https://live-aburayhan1109.telewebion.ir/ek/fars/live/720p/index.m3u8
+https://live-aburayhan1104.telewebion.ir/ek/fars/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Gilan
-https://live-aburayhan1111.telewebion.ir/ek/baran/live/720p/index.m3u8
+https://live-aburayhan1109.telewebion.ir/ek/baran/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Golestan
-https://live-aburayhan1113.telewebion.ir/ek/sabz/live/720p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/sabz/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Hamedan
-https://live-aburayhan1101.telewebion.ir/ek/sina/live/720p/index.m3u8
+https://live-aburayhan1102.telewebion.ir/ek/sina/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Hormozgan
-https://live-aburayhan1105.telewebion.ir/ek/khalijefars/live/720p/index.m3u8
+https://live-aburayhan1106.telewebion.ir/ek/khalijefars/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Ilam
-https://live-aburayhan1111.telewebion.ir/ek/ilam/live/720p/index.m3u8
+https://live-aburayhan1109.telewebion.ir/ek/ilam/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kerman
-https://live-aburayhan1105.telewebion.ir/ek/kerman/live/720p/index.m3u8
+https://live-aburayhan1113.telewebion.ir/ek/kerman/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kermanshah
-https://live-aburayhan1105.telewebion.ir/ek/zagros/live/720p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/zagros/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Karoon
-https://live-aburayhan1109.telewebion.ir/ek/karoon/live/720p/index.m3u8
+https://live-aburayhan1102.telewebion.ir/ek/karoon/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Khoozestan
-https://live-aburayhan1110.telewebion.ir/ek/khoozestan/live/720p/index.m3u8
+https://live-aburayhan1105.telewebion.ir/ek/khoozestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kish
-https://live-aburayhan1106.telewebion.ir/ek/kish/live/720p/index.m3u8
+https://live-aburayhan1109.telewebion.ir/ek/kish/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kordestan
-https://live-aburayhan1105.telewebion.ir/ek/kordestan/live/720p/index.m3u8
+https://live-aburayhan1113.telewebion.ir/ek/kordestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Lorestan
-https://live-aburayhan1108.telewebion.ir/ek/aflak/live/720p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/aflak/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Mahabad
-https://live-aburayhan1106.telewebion.ir/ek/mahabad/live/720p/index.m3u8
+https://live-aburayhan1108.telewebion.ir/ek/mahabad/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Markazi
-https://live-aburayhan1107.telewebion.ir/ek/aftab/live/720p/index.m3u8
+https://live-aburayhan1110.telewebion.ir/ek/aftab/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Khorasan Razavi
-https://live-aburayhan1108.telewebion.ir/ek/khorasanrazavi/live/720p/index.m3u8
+https://live-aburayhan1107.telewebion.ir/ek/khorasanrazavi/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Mazandaran
-https://live-aburayhan1101.telewebion.ir/ek/tabarestan/live/720p/index.m3u8
+https://live-aburayhan1107.telewebion.ir/ek/tabarestan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Qazvin
-https://live-aburayhan1104.telewebion.ir/ek/qazvin/live/720p/index.m3u8
+https://live-aburayhan1112.telewebion.ir/ek/qazvin/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Qom
-https://live-aburayhan1110.telewebion.ir/ek/noor/live/720p/index.m3u8
+https://live-aburayhan1111.telewebion.ir/ek/noor/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Semnan
 https://live-aburayhan1113.telewebion.ir/ek/semnan/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Sistan Baluchestan
-https://live-aburayhan1113.telewebion.ir/ek/hamoon/live/720p/index.m3u8
+https://live-aburayhan1107.telewebion.ir/ek/hamoon/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Azerbaijan Sharghi
-https://live-aburayhan1105.telewebion.ir/ek/sahand/live/720p/index.m3u8
+https://live-aburayhan1110.telewebion.ir/ek/sahand/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Azerbaijan Gharbi
-https://live-aburayhan1111.telewebion.ir/ek/azarbayjangharbi/live/720p/index.m3u8
+https://live-aburayhan1109.telewebion.ir/ek/azarbayjangharbi/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Kohgiluyeh
-https://live-aburayhan1101.telewebion.ir/ek/dena/live/720p/index.m3u8
+https://live-aburayhan1103.telewebion.ir/ek/dena/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Yazd
 https://live-aburayhan1105.telewebion.ir/ek/taban/live/720p/index.m3u8
 #EXTINF:-1 group-title="Geral",Zanjan
-https://live-aburayhan1109.telewebion.ir/ek/eshragh/live/720p/index.m3u8
+https://live-aburayhan1105.telewebion.ir/ek/eshragh/live/720p/index.m3u8
